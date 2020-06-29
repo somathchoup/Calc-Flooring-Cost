@@ -1,0 +1,40 @@
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\bin\Debug\CalculateFlooringCosts.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCosts\obj\Debug\CalculateFlooringCosts.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\bin\Debug\CalculateFlooringCosts.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\bin\Debug\CalculateFlooringCosts.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\bin\Debug\CalculateFlooringCosts.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\bin\Debug\CalculateFlooringCosts.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 24\CalculateFlooringCostsSDI\obj\Debug\CalculateFlooringCosts.vbproj.GenerateResource.Cache
+C:\VB 2015\Extra exercise starts\Chapter 25\CalculateFlooringCostsMDI\bin\Debug\CalculateFlooringCosts.exe.config
+C:\VB 2015\Extra exercise starts\Chapter 25\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.exe
+C:\VB 2015\Extra exercise starts\Chapter 25\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.xml
+C:\VB 2015\Extra exercise starts\Chapter 25\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.pdb
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\bin\Debug\CalculateFlooringCosts.exe.config
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\bin\Debug\CalculateFlooringCosts.exe
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\bin\Debug\CalculateFlooringCosts.pdb
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\bin\Debug\CalculateFlooringCosts.xml
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.vbprojResolveAssemblyReference.cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.frmCarpeting.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.frmFlooringCalculator.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.frmHardwood.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.Resources.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.vbproj.GenerateResource.cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.vbproj.CoreCompileInputs.cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.exe
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.xml
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 6\Week 6 Assignment\Week 6 Assignment\CalculateFlooringCostsMDI\obj\Debug\CalculateFlooringCosts.pdb
